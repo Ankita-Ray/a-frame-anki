@@ -11,7 +11,10 @@ export const exampleLists={
     demo:'Demo',
 }
 export const objectImages = [
-                                 '../../Constants/Images/ele.png'
+                              // "https://c4.wallpaperflare.com/wallpaper/501/784/3/earth-planet-sky-moon-wallpaper-preview.jpg",
+                                  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjqocno2qzsargI1TtsIwOeErHZu_I3mw9Q&usqp=CAU',
+                              'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc00dLT_OZREEUihVhq1jjOCBag_43a3mbzQ&usqp=CAU',
+                              '../../Constants/Images/ele.png'
                             ];
 export  const backgroundImages = [
                               "https://st.depositphotos.com/1006706/2671/i/600/depositphotos_26715369-stock-photo-which-way-to-choose-3d.jpg",
